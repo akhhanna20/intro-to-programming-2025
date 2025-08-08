@@ -7,11 +7,11 @@
   ],
   "finalProjectDetails": {
     "overview": "No final project specified.",
-    "planningResources": [],
-    "submissionInstructions": "No submission instructions provided.",
     "requirements": [
       "No requirements specified."
-    ]
+    ],
+    "submissionInstructions": "No submission instructions provided.",
+    "planningResources": []
   },
   "createdBy": {
     "name": "Hanna Akhramchuk",
@@ -22,6 +22,6 @@
   "originalGithubUrl": "https://github.com/Code-the-Dream-School/intro-to-programming-2025",
   "remoteGithubUrl": "https://github.com/akhhanna20/intro-to-programming-2025",
   "createdAt": "2025-08-08T16:26:49.303Z",
-  "updatedAt": "2025-08-08T16:32:49.226Z",
+  "updatedAt": "2025-08-08T17:00:39.907Z",
   "lessonCount": 15
 }
